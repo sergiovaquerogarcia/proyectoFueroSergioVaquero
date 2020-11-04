@@ -21,7 +21,7 @@ public class ProyectoFuturo {
         System.out.println("Estudiante " + args[0] + " : " + vere);
     }
     
-    static String veredicto(String valor1, String valor2) {
+    private static String veredicto(String valor1, String valor2) {
         String vere;
         
         if (valor1.equals(valor2)) {
