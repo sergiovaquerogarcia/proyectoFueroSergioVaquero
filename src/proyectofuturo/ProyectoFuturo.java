@@ -7,7 +7,7 @@ package proyectofuturo;
 
 /**
  *
- * @author milar
+ * @author SERGIO VAQUERO GARCIA
  */
 public class ProyectoFuturo {
 
